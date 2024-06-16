@@ -20,7 +20,7 @@ The goal of this project is to classify restaurant reviews as positive or negati
 - Jupyter notebooks for step-by-step analysis
 
 ## Dataset
-The dataset consists of restaurant reviews labeled as positive or negative. You can find the dataset [here](data/reviews.csv).
+The dataset consists of restaurant reviews labeled as positive or negative. You can find the dataset [here](a1_RestaurantReviews_HistoricDump.tsv).
 
 ## Installation
 Clone the repository and install the required dependencies:
