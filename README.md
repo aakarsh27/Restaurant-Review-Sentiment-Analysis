@@ -1,5 +1,5 @@
 # Restaurant Review Sentiment Analysis
-hu
+hi
 This project focuses on analyzing and predicting the sentiment of restaurant reviews using natural language processing (NLP) techniques.
 
 ## Table of Contents
